@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Athoul Muwafiq</title>
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css?family=Assistant:200,300" rel="stylesheet">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/loader.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134687834-3"></script>
+    <script src="js/analytics.js"></script>
+</head>
+<body>
+
+    <div class="loader">
+        <svg width="200px" height="200px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-ripple" style="shape-rendering: auto; animation-play-state: running; animation-delay: 0s; background: none;"><circle cx="50" cy="50" r="38.0849" fill="none" ng-attr-stroke="{{config.c1}}" ng-attr-stroke-width="{{config.width}}" stroke="#dadada" stroke-width="2" style="animation-play-state: running; animation-delay: 0s;"><animate attributeName="r" calcMode="spline" values="0;40" keyTimes="0;1" dur="1" keySplines="0 0.2 0.8 1" begin="-0.5s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate><animate attributeName="opacity" calcMode="spline" values="1;0" keyTimes="0;1" dur="1" keySplines="0.2 0 0.8 1" begin="-0.5s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate></circle><circle cx="50" cy="50" r="21.0642" fill="none" ng-attr-stroke="{{config.c2}}" ng-attr-stroke-width="{{config.width}}" stroke="#aaaaaa" stroke-width="2" style="animation-play-state: running; animation-delay: 0s;"><animate attributeName="r" calcMode="spline" values="0;40" keyTimes="0;1" dur="1" keySplines="0 0.2 0.8 1" begin="0s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate><animate attributeName="opacity" calcMode="spline" values="1;0" keyTimes="0;1" dur="1" keySplines="0.2 0 0.8 1" begin="0s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate></circle></svg>
+        <span>LOADING</span>
+    </div>
+
+    <section>
+        <ul id="scene">
+            <!-- Background -->
+            <li class="layer" data-depth="0.2"><div id="background"></div></li>
+
+            <!-- Texts -->
+            <li class="layer" data-depth="0.6" id="text" style="margin-top: 193px !important">
+                <h2>under construction..</h2>
+                <h1>ATHOUL<br>MUWAFIQ</h1>
+            </li>
+
+            <!-- Circles -->
+            <li class="layer" data-depth="0.8">
+                <div class="depth-1 circle" id="circle-1"></div>
+                <div class="depth-1 circle" id="circle-2"></div>
+                <div class="depth-1 circle" id="circle-3"></div>
+            </li>
+
+            <li class="layer" data-depth="1">
+                <div class="depth-1 circle" id="circle-4"></div>
+                <div class="depth-2 circle" id="circle-5"></div>
+                <div class="depth-2 circle" id="circle-6"></div>
+            </li>
+
+            <li class="layer" data-depth="1.1">
+                <div class="depth-2 circle" id="circle-7"></div>
+            </li>
+
+            <li class="layer" data-depth="1.4">
+                <div class="depth-3 circle" id="circle-8"></div>
+                <div class="depth-3 circle" id="circle-9"></div>
+            </li>
+
+            <li class="layer" data-depth="1.6">
+                <div class="depth-4 circle" id="circle-10"></div>
+            </li>
+        </ul>
+    </section>
+
+    <!-- JavaScript -->
+    <script src="js/loader.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script>
+        var scene = document.getElementById('scene');
+        var parallaxInstance = new Parallax(scene, {
+            relativeInput: true
+        });
+    </script>
+</body>
+</html>
