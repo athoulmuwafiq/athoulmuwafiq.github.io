@@ -1,1 +1,188 @@
-No Content: http://cvresumetemplate.com/maha-personal-cv-resume-html-template/assets/css/colors/defauld.css
+.new .navbar-toggler .icon, .new .navbar-toggler .icon::after, .new .navbar-toggler .icon::before {
+  background-color: #4458dc;
+}
+
+.white-vertion .page-item.active .page-link {
+  color: #4458dc;
+}
+
+.dark-vertion .page-item.active .page-link {
+  color: #4458dc;
+}
+
+.mh-header .navbar-nav li a:hover {
+  color: #4458dc;
+}
+
+.mh-home-2 .mh-header-info ul.mh-home-contact li:hover .fa {
+  color: #4458dc;
+}
+
+.mh-home .mh-header-info .mh-promo span {
+  background-color: #4458dc;
+}
+
+.mh-home .mh-header-info ul li:hover .fa {
+  color: #4458dc;
+}
+
+.mh-about-tag ul li span {
+  border: 1px solid #4458dc;
+}
+
+.mh-about-tag ul li span:hover {
+  background-color: #4458dc;
+}
+
+.mh-progress path:nth-child(2) {
+  stroke: #4458dc;
+}
+
+.candidatos .parcial .percentagem {
+  background: #4458dc;
+}
+
+.mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
+  color: #4458dc;
+}
+
+.mh-work .mh-experience-deatils .mh-work-item .mh-eduyear {
+  color: #4458dc;
+}
+
+.portfolio-nav ul li:hover {
+  color: #4458dc;
+}
+
+.portfolio-nav ul li.active {
+  color: #4458dc;
+}
+
+.mh-pricing .mh-pricing:hover .btn {
+  background-color: #14777b;
+}
+
+.mh-pricing .mh-pricing .fa {
+  color: #5edfe4;
+}
+
+.mh-pricing .mh-pricing h5 {
+  color: #4458dc;
+}
+
+.mh-blog .mh-blog-item .blog-inner a {
+  color: #4458dc;
+}
+
+.mh-blog .mh-blog-item h2 {
+  color: #4458dc;
+}
+
+.mh-blog .mh-blog-item h2 a {
+  color: #4458dc;
+}
+
+.mh-blog .mh-blog-item h2 a:hover {
+  color: #178488;
+}
+
+.mh-testimonial .mh-client-item img {
+  border: 5px solid #4458dc;
+}
+
+.mh-testimonial .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #4458dc;
+}
+
+.mh-testimonial .owl-controls .owl-dots .owl-dot.active {
+  background-color: #4458dc;
+}
+
+.mh-footer-address .mh-address-footer-item .each-icon .fa {
+  border-color: #4458dc;
+}
+
+.old .navbar-collapse {
+  background-color: #4458dc;
+}
+
+.old .navbar-header .navbar-toggler .icon-bar {
+  background-color: #4458dc;
+}
+
+.old .navbar-collapse {
+  background-color: #4458dc;
+}
+
+.new .navbar-collapse {
+  background-color: #4458dc;
+}
+
+.new .navbar-header .navbar-toggler .icon-bar {
+  background-color: #4458dc;
+}
+
+.new .navbar-collapse {
+  background-color: #4458dc;
+}
+
+.portfolio-nav ul li.current span {
+  border-bottom: 2px solid #4458dc;
+}
+
+.mh-project-gallery .grid-item figure:hover figcaption {
+  background: rgba(24, 140, 145, 0.9);
+}
+
+.mh-featured-project .mh-featured-item .mh-featured-project-content .project-category {
+  color: #4458dc;
+}
+
+.mh-single-project-slide .owl-controls .owl-dots .owl-dot {
+  border: 1px solid #4458dc;
+}
+
+.mh-single-project-slide .owl-controls .owl-dots .owl-dot.active {
+  background-color: #4458dc;
+}
+
+.mh-service .mh-service-item a {
+  color: #4458dc;
+}
+
+.mh-pagination .page-link:hover {
+  color: #4458dc;
+}
+
+.mh-author-info .social-icon li a:hover {
+  color: #4458dc;
+}
+
+.mh-blog-category ul li a:hover {
+  color: #4458dc;
+}
+
+.mh-experince .mh-education-deatils .mh-education-item h4 a {
+  color: #4458dc;
+}
+
+.mh-work .mh-experience-deatils .mh-work-item h4 a {
+  color: #4458dc;
+}
+
+.mh-blog-next-prev-post a {
+  color: #4458dc;
+}
+
+.comment-deatils span {
+  color: #4458dc;
+}
+
+.btn.btn-fill {
+  background-color: #4458dc;
+}
+
+.mh-pricing .mh-pricing .fa {
+  color: #4458dc;
+}
+/*# sourceMappingURL=yellow.css.map */
